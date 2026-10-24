@@ -1,0 +1,93 @@
+{
+ "version": "2026-10-25",
+ "items": [
+  {
+   "id": "liturgy-chrysostom",
+   "title": "Divine Liturgy of St John Chrysostom",
+   "description": "Greek and English, from J. N. W. B. Robertson (London, 1894)",
+   "licence": "Public domain",
+   "version": "2026-10-25",
+   "files": [
+    {
+     "path": "liturgy/chrysostom-robertson-1894.json",
+     "size": 205856,
+     "sha256": "b77577366b821864f984ab5837f71e4b8b5e5661f562141a71486da65c0c8f2c"
+    }
+   ]
+  },
+  {
+   "id": "saints",
+   "title": "Saints of each day",
+   "description": "About 10,000 commemorations, from English Wikipedia",
+   "licence": "Creative Commons Attribution-ShareAlike 4.0 (English Wikipedia)",
+   "version": "2026-10-25",
+   "files": [
+    {
+     "path": "saints/01.json",
+     "size": 105179,
+     "sha256": "93819d31a123ff205fe8b267234e0786b9369778095c5bae4c922a0e644a2570"
+    },
+    {
+     "path": "saints/02.json",
+     "size": 90854,
+     "sha256": "b592a20c7ee9fad19f5299ea303ef37fc588b6878004be0f6d60f2fda141e9ec"
+    },
+    {
+     "path": "saints/03.json",
+     "size": 88101,
+     "sha256": "38577497cc112eadd756a79a53358dd8e4b05c6ce6c9eb02cd7ed12d6edaa434"
+    },
+    {
+     "path": "saints/04.json",
+     "size": 86081,
+     "sha256": "f9b7a9759cfc9bb3915e87fbe0472ee96d2e1c4d1bd0d8e561f2a8b3d5bc45c5"
+    },
+    {
+     "path": "saints/05.json",
+     "size": 103662,
+     "sha256": "8e9cf640f8a15a62f34fd5249b0fbb92eab924154dbc14635080e6b51cfdaeb1"
+    },
+    {
+     "path": "saints/06.json",
+     "size": 100848,
+     "sha256": "90259063035fdaa669fce66ea3be1bd352b1c7aa1e7bfa9c3bb406f66829e283"
+    },
+    {
+     "path": "saints/07.json",
+     "size": 100495,
+     "sha256": "8500d2d863e864d0f955eae0a9cce267980dc29caf6e308bbf3318cf0736ad16"
+    },
+    {
+     "path": "saints/08.json",
+     "size": 104077,
+     "sha256": "42f17a66ee15e02361269e0961672fcce138400d35c60bdb9f85bbfe25e7b119"
+    },
+    {
+     "path": "saints/09.json",
+     "size": 99166,
+     "sha256": "2dfc5ed58583e4ca26911244e49fd3baf5fd756cd3c76acc67b6cefcb4bfac8d"
+    },
+    {
+     "path": "saints/10.json",
+     "size": 111146,
+     "sha256": "e3c548d5d133041a7776fc5d9f47edc758a6fd83792a0aefb578e7b6f3907ebd"
+    },
+    {
+     "path": "saints/11.json",
+     "size": 104567,
+     "sha256": "b42c601d94d28c8beba6de2e4abc50c304ae909730cb23f920a2232b788a294c"
+    },
+    {
+     "path": "saints/12.json",
+     "size": 94643,
+     "sha256": "25293bb2b554a1befeb617eba3385a02fa495b303be86081dde97a3c0838bfd1"
+    },
+    {
+     "path": "saints/revisions.json",
+     "size": 7688,
+     "sha256": "7d9e958a052c45815364eb0bb666e5df435ce6e866b5932b331c2da720c4b121"
+    }
+   ]
+  }
+ ]
+}
