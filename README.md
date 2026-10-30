@@ -23,3 +23,13 @@ These files are made by `tools/make_packs.py` in the app's own repository. Pleas
 
 The church list is a database made from OpenStreetMap data: it is available under the
 [Open Database Licence](https://opendatacommons.org/licenses/odbl/1-0/), and © OpenStreetMap contributors.
+
+## Earlier files
+
+`catalog.json`, `liturgy/` and `saints/` were added on 24 October 2026, before the packs above. The app
+does not download them (the Liturgy and the saints list are built into it), and they are kept for reference:
+
+| Text | Source | Licence |
+| --- | --- | --- |
+| Divine Liturgy of St John Chrysostom, Greek and English | J. N. W. B. Robertson, *The Divine Liturgies of Our Fathers Among the Saints* (London, 1894) | Public domain |
+| Saints of each day | English Wikipedia, "[Month] [day] (Eastern Orthodox liturgics)" pages | Creative Commons Attribution-ShareAlike 4.0 |
