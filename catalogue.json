@@ -450,6 +450,18 @@
   ]
  },
  {
+  "id": "history-historians",
+  "kind": "history",
+  "version": "0116636cb75f",
+  "size": 3036696,
+  "files": [
+   "eusebius.json",
+   "socrates.json",
+   "sozomen.json",
+   "theodoret.json"
+  ]
+ },
+ {
   "id": "service-basil",
   "kind": "service",
   "version": "4e5ffecc1481",
