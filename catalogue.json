@@ -381,8 +381,8 @@
  {
   "id": "fathers-chrysostom",
   "kind": "fathers",
-  "version": "19ee9b91e180",
-  "size": 11907310,
+  "version": "9f5e7a29677a",
+  "size": 11987966,
   "files": [
    "1CO.json",
    "1TH.json",
@@ -442,8 +442,8 @@
  {
   "id": "councils",
   "kind": "councils",
-  "version": "d11c4fd78d2c",
-  "size": 495095,
+  "version": "b9e8f9c30fb5",
+  "size": 495033,
   "files": [
    "councils.json",
    "synods.json"
