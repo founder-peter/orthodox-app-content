@@ -379,6 +379,94 @@
   ]
  },
  {
+  "id": "bible-ron1914",
+  "kind": "bible",
+  "version": "28d8c6e66c28",
+  "size": 4942803,
+  "files": [
+   "1CH.json",
+   "1CO.json",
+   "1ES.json",
+   "1JN.json",
+   "1KI.json",
+   "1MA.json",
+   "1PE.json",
+   "1SA.json",
+   "1TH.json",
+   "1TI.json",
+   "2CH.json",
+   "2CO.json",
+   "2JN.json",
+   "2KI.json",
+   "2MA.json",
+   "2PE.json",
+   "2SA.json",
+   "2TH.json",
+   "2TI.json",
+   "3JN.json",
+   "3MA.json",
+   "ACT.json",
+   "AMO.json",
+   "BAR.json",
+   "BEL.json",
+   "COL.json",
+   "DAN.json",
+   "DEU.json",
+   "ECC.json",
+   "EPH.json",
+   "EST.json",
+   "EXO.json",
+   "EZK.json",
+   "EZR.json",
+   "GAL.json",
+   "GEN.json",
+   "HAB.json",
+   "HAG.json",
+   "HEB.json",
+   "HOS.json",
+   "ISA.json",
+   "JAS.json",
+   "JDG.json",
+   "JDT.json",
+   "JER.json",
+   "JHN.json",
+   "JOB.json",
+   "JOL.json",
+   "JON.json",
+   "JOS.json",
+   "JUD.json",
+   "LAM.json",
+   "LEV.json",
+   "LJE.json",
+   "LUK.json",
+   "MAL.json",
+   "MAN.json",
+   "MAT.json",
+   "MIC.json",
+   "MRK.json",
+   "NAM.json",
+   "NEH.json",
+   "NUM.json",
+   "OBA.json",
+   "PHM.json",
+   "PHP.json",
+   "PRO.json",
+   "PSA.json",
+   "REV.json",
+   "ROM.json",
+   "RUT.json",
+   "S3Y.json",
+   "SIR.json",
+   "SNG.json",
+   "SUS.json",
+   "TIT.json",
+   "TOB.json",
+   "WIS.json",
+   "ZEC.json",
+   "ZEP.json"
+  ]
+ },
+ {
   "id": "fathers-chrysostom",
   "kind": "fathers",
   "version": "9f5e7a29677a",
@@ -424,9 +512,10 @@
  {
   "id": "fathers-catena",
   "kind": "fathers",
-  "version": "fd6a532a2d77",
-  "size": 673628,
+  "version": "28368ea001b0",
+  "size": 2324142,
   "files": [
+   "MAT.json",
    "MRK.json"
   ]
  },
@@ -440,22 +529,55 @@
   ]
  },
  {
+  "id": "fathers-cyril-john",
+  "kind": "fathers",
+  "version": "d61078940149",
+  "size": 2768493,
+  "files": [
+   "JHN.json"
+  ]
+ },
+ {
+  "id": "fathers-gregory-thaumaturgus",
+  "kind": "fathers",
+  "version": "fb542bcc54ad",
+  "size": 43664,
+  "files": [
+   "ECC.json"
+  ]
+ },
+ {
+  "id": "fathers-hippolytus",
+  "kind": "fathers",
+  "version": "3b72f3056839",
+  "size": 119847,
+  "files": [
+   "DAN.json",
+   "GEN.json",
+   "PRO.json",
+   "PSA.json",
+   "SNG.json"
+  ]
+ },
+ {
   "id": "councils",
   "kind": "councils",
-  "version": "b9e8f9c30fb5",
-  "size": 495033,
+  "version": "06ff338a726f",
+  "size": 573806,
   "files": [
    "councils.json",
+   "fathers-canons.json",
    "synods.json"
   ]
  },
  {
   "id": "history-historians",
   "kind": "history",
-  "version": "0116636cb75f",
-  "size": 3036696,
+  "version": "dd1206ae0c59",
+  "size": 3450460,
   "files": [
    "eusebius.json",
+   "evagrius.json",
    "socrates.json",
    "sozomen.json",
    "theodoret.json"
@@ -518,6 +640,335 @@
    "sixth-hour-hapgood-1906.json",
    "third-hour-hapgood-1906.json",
    "typika-hapgood-1906.json"
+  ]
+ },
+ {
+  "id": "service-hapgood-more",
+  "kind": "service",
+  "version": "f6633d41d478",
+  "size": 125395,
+  "files": [
+   "communion-prayers-hapgood-1906.json",
+   "great-compline-hapgood-1906.json",
+   "pascha-hapgood-1906.json",
+   "paschal-hours-hapgood-1906.json"
+  ]
+ },
+ {
+  "id": "service-needs",
+  "kind": "service",
+  "version": "5722ee56e7fe",
+  "size": 429765,
+  "files": [
+   "abbot-appointment-shann-1894.json",
+   "archdeacon-appointment-shann-1894.json",
+   "archimandrite-appointment-shann-1894.json",
+   "baptism-shann-1894.json",
+   "betrothal-shann-1894.json",
+   "blessings-shann-1894.json",
+   "catechumen-shann-1894.json",
+   "child-funeral-shann-1894.json",
+   "churching-shann-1894.json",
+   "confession-shann-1894.json",
+   "crowning-shann-1894.json",
+   "crowns-removal-shann-1894.json",
+   "deacon-ordination-shann-1894.json",
+   "departure-canon-shann-1894.json",
+   "emergency-baptism-shann-1894.json",
+   "first-day-prayers-shann-1894.json",
+   "funeral-shann-1894.json",
+   "great-blessing-of-waters-shann-1894.json",
+   "lesser-blessing-of-waters-shann-1894.json",
+   "miscarriage-shann-1894.json",
+   "naming-shann-1894.json",
+   "paschal-funeral-shann-1894.json",
+   "priest-funeral-shann-1894.json",
+   "priest-ordination-shann-1894.json",
+   "protopresbyter-appointment-shann-1894.json",
+   "reader-appointment-shann-1894.json",
+   "release-from-prohibition-shann-1894.json",
+   "second-marriage-shann-1894.json",
+   "sick-communion-shann-1894.json",
+   "subdeacon-ordination-shann-1894.json",
+   "unction-shann-1894.json"
+  ]
+ },
+ {
+  "id": "service-menaion",
+  "kind": "service",
+  "version": "de266bc13ba6",
+  "size": 693768,
+  "files": [
+   "menaion-angels-orloff-1899.json",
+   "menaion-apostle-orloff-1899.json",
+   "menaion-apostles-orloff-1899.json",
+   "menaion-confessor-orloff-1899.json",
+   "menaion-cross-orloff-1899.json",
+   "menaion-fathers-orloff-1899.json",
+   "menaion-fools-for-christ-orloff-1899.json",
+   "menaion-forerunner-orloff-1899.json",
+   "menaion-hierarch-orloff-1899.json",
+   "menaion-hierarchs-orloff-1899.json",
+   "menaion-hieromartyr-orloff-1899.json",
+   "menaion-hieromartyrs-orloff-1899.json",
+   "menaion-lord-orloff-1899.json",
+   "menaion-martyr-orloff-1899.json",
+   "menaion-martyrs-orloff-1899.json",
+   "menaion-monk-martyr-orloff-1899.json",
+   "menaion-monk-martyrs-orloff-1899.json",
+   "menaion-monk-orloff-1899.json",
+   "menaion-monks-orloff-1899.json",
+   "menaion-nun-martyr-orloff-1899.json",
+   "menaion-nun-orloff-1899.json",
+   "menaion-nuns-orloff-1899.json",
+   "menaion-prophet-orloff-1899.json",
+   "menaion-theotokos-orloff-1899.json",
+   "menaion-unmercenaries-orloff-1899.json",
+   "menaion-woman-martyr-orloff-1899.json",
+   "menaion-women-martyrs-orloff-1899.json"
+  ]
+ },
+ {
+  "id": "writings-apostolic-fathers",
+  "kind": "writings",
+  "version": "46aa57676b0b",
+  "size": 223797,
+  "files": [
+   "clement-corinthians.json",
+   "didache.json",
+   "epistle-to-diognetus.json",
+   "ignatius-ephesians.json",
+   "ignatius-magnesians.json",
+   "ignatius-philadelphians.json",
+   "ignatius-polycarp.json",
+   "ignatius-romans.json",
+   "ignatius-smyrnaeans.json",
+   "ignatius-trallians.json",
+   "martyrdom-of-polycarp.json",
+   "polycarp-philippians.json"
+  ]
+ },
+ {
+  "id": "writings-irenaeus-justin",
+  "kind": "writings",
+  "version": "6cee86126ca3",
+  "size": 1486037,
+  "files": [
+   "irenaeus-against-heresies.json",
+   "irenaeus-demonstration.json",
+   "justin-first-apology.json",
+   "justin-second-apology.json"
+  ]
+ },
+ {
+  "id": "writings-athanasius",
+  "kind": "writings",
+  "version": "c804e2a95bcd",
+  "size": 1246401,
+  "files": [
+   "athanasius-against-arians.json",
+   "athanasius-against-heathen.json",
+   "athanasius-festal-letters.json",
+   "athanasius-incarnation.json",
+   "athanasius-life-of-antony.json"
+  ]
+ },
+ {
+  "id": "writings-cyril-jerusalem",
+  "kind": "writings",
+  "version": "18dda3da9591",
+  "size": 583501,
+  "files": [
+   "cyril-catechetical-lectures.json"
+  ]
+ },
+ {
+  "id": "writings-basil",
+  "kind": "writings",
+  "version": "e24c821af225",
+  "size": 1116921,
+  "files": [
+   "basil-holy-spirit.json",
+   "basil-letters.json"
+  ]
+ },
+ {
+  "id": "writings-gregory-theologian",
+  "kind": "writings",
+  "version": "6cee43ee96f6",
+  "size": 1208527,
+  "files": [
+   "gregory-theologian-letters.json",
+   "gregory-theologian-orations.json"
+  ]
+ },
+ {
+  "id": "writings-gregory-nyssa",
+  "kind": "writings",
+  "version": "904150d197cd",
+  "size": 776832,
+  "files": [
+   "gregory-nyssa-baptism-of-christ.json",
+   "gregory-nyssa-great-catechism.json",
+   "gregory-nyssa-holy-trinity.json",
+   "gregory-nyssa-making-of-man.json",
+   "gregory-nyssa-not-three-gods.json",
+   "gregory-nyssa-pilgrimages.json",
+   "gregory-nyssa-soul-resurrection.json",
+   "gregory-nyssa-virginity.json"
+  ]
+ },
+ {
+  "id": "writings-chrysostom",
+  "kind": "writings",
+  "version": "12731ee9a127",
+  "size": 1773295,
+  "files": [
+   "chrysostom-catechumens.json",
+   "chrysostom-errors-of-brethren.json",
+   "chrysostom-eutropius.json",
+   "chrysostom-ignatius-babylas.json",
+   "chrysostom-let-this-cup-pass.json",
+   "chrysostom-letters-innocent.json",
+   "chrysostom-lowliness.json",
+   "chrysostom-no-one-can-harm.json",
+   "chrysostom-not-attended.json",
+   "chrysostom-olympias.json",
+   "chrysostom-paralytic.json",
+   "chrysostom-power-of-demons.json",
+   "chrysostom-priesthood.json",
+   "chrysostom-statues.json",
+   "chrysostom-theodore.json",
+   "chrysostom-young-widow.json"
+  ]
+ },
+ {
+  "id": "writings-ephrem",
+  "kind": "writings",
+  "version": "8ef693389e7a",
+  "size": 581804,
+  "files": [
+   "ephrem-epiphany.json",
+   "ephrem-homilies.json",
+   "ephrem-nativity.json",
+   "ephrem-nisibene.json",
+   "ephrem-pearl.json"
+  ]
+ },
+ {
+  "id": "writings-macarius",
+  "kind": "writings",
+  "version": "6bb64662ba8d",
+  "size": 529392,
+  "files": [
+   "macarius-homilies.json"
+  ]
+ },
+ {
+  "id": "writings-john-damascus",
+  "kind": "writings",
+  "version": "d702de21439d",
+  "size": 667383,
+  "files": [
+   "john-damascus-exact-exposition.json",
+   "john-damascus-images.json"
+  ]
+ },
+ {
+  "id": "writings-philaret-catechism",
+  "kind": "writings",
+  "version": "997f647f405d",
+  "size": 203561,
+  "files": [
+   "philaret-catechism.json"
+  ]
+ },
+ {
+  "id": "writings-kronstadt",
+  "kind": "writings",
+  "version": "635830872eef",
+  "size": 1397939,
+  "files": [
+   "kronstadt-life-in-christ.json"
+  ]
+ },
+ {
+  "id": "writings-el-gregory-theologian",
+  "kind": "writings",
+  "version": "21213d862e98",
+  "size": 2678602,
+  "files": [
+   "el-gregory-orations.json"
+  ]
+ },
+ {
+  "id": "writings-el-basil",
+  "kind": "writings",
+  "version": "8f9806b5fef3",
+  "size": 189667,
+  "files": [
+   "el-basil-attend.json",
+   "el-basil-consolations.json",
+   "el-basil-fasting.json",
+   "el-basil-young-men.json"
+  ]
+ },
+ {
+  "id": "writings-el-athanasius",
+  "kind": "writings",
+  "version": "9b8b07ff982e",
+  "size": 229014,
+  "files": [
+   "el-athanasius-antony.json"
+  ]
+ },
+ {
+  "id": "writings-el-climacus",
+  "kind": "writings",
+  "version": "b6288240526a",
+  "size": 731190,
+  "files": [
+   "el-climacus-ladder.json"
+  ]
+ },
+ {
+  "id": "writings-el-akathist",
+  "kind": "writings",
+  "version": "0b68c7e23843",
+  "size": 21474,
+  "files": [
+   "el-akathist.json"
+  ]
+ },
+ {
+  "id": "writings-ru-theophan",
+  "kind": "writings",
+  "version": "477739c9384f",
+  "size": 749896,
+  "files": [
+   "ru-theophan-baptism.json",
+   "ru-theophan-christian-life.json",
+   "ru-theophan-eternal-torment.json",
+   "ru-theophan-hermas.json",
+   "ru-theophan-sermons-orthodoxy.json"
+  ]
+ },
+ {
+  "id": "writings-ru-philaret",
+  "kind": "writings",
+  "version": "36e635579f1e",
+  "size": 79470,
+  "files": [
+   "ru-philaret-septuagint.json"
+  ]
+ },
+ {
+  "id": "writings-ru-kronstadt",
+  "kind": "writings",
+  "version": "d85430fce15a",
+  "size": 143274,
+  "files": [
+   "ru-kronstadt-tolstoy.json"
   ]
  }
 ]
